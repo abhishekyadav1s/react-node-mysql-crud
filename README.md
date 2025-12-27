@@ -1,21 +1,14 @@
 \# React Node MySQL CRUD Application
 
-A full-stack CRUD (Create, Read, Update, Delete) application built using \*\*React\*\*, \*\*Node.js\*\*, \*\*Express\*\*, and \*\*MySQL\*\*.
+    A full-stack CRUD (Create, Read, Update, Delete) application built using \*\*React\*\*, \*\*Node.js\*\*, \*\*Express\*\*, and \*\*MySQL\*\*.
 \## 🚀 Features
 
-\- Add new users
-
-\- View users list
-
-\- Update existing users
-
-\- Delete users
-
-\- RESTful APIs
-
-\- MySQL database integration
-
-
+    \- Add new users
+    \- View users list
+    \- Update existing users
+    \- Delete users
+    \- RESTful APIs
+    \- MySQL database integration
 
 \## 🛠 Tech Stack
 
@@ -32,12 +25,13 @@ A full-stack CRUD (Create, Read, Update, Delete) application built using \*\*Rea
     \- CORS
 
 \## 📁 Project Structure
-  react-node-mysql-crud/
+react-node-mysql-crud/
 │
 ├── react-crud-app/ # React frontend
 ├── backend/ # Node + Express backend
 ├── .gitignore
 └── README.md
+
 \## ⚙️ Setup Instructions
   \### 1️⃣ Clone Repository
     ```bash
@@ -72,26 +66,27 @@ A full-stack CRUD (Create, Read, Update, Delete) application built using \*\*Rea
       
 🔗 API Endpoints
 
-| Method | Endpoint   | Description   |
+    | Method | Endpoint   | Description   |
 
-| ------ | ---------- | ------------- |
+    | ------ | ---------- | ------------- |
 
-| POST   | /users     | Create user   |
+    | POST   | /users     | Create user   |
 
-| GET    | /users     | Get all users |
+    | GET    | /users     | Get all users |
 
-| PUT    | /users/:id | Update user   |
+    | PUT    | /users/:id | Update user   |
 
-| DELETE | /users/:id | Delete user   |
+    | DELETE | /users/:id | Delete user   |
 
 🧠 Learning Outcome
 
-  This project demonstrates full-stack development skills, REST API design, and database integration.
+      This project demonstrates full-stack development skills, REST API design, and database integration.
 
 
 👨‍💻 Author
 Abhishek Yadav
 Java | SQL | Full Stack Developer
+
 
 
 

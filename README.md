@@ -25,12 +25,12 @@
     \- CORS
 
 \## 📁 Project Structure
-react-node-mysql-crud/
-│
-├── react-crud-app/ # React frontend
-├── backend/ # Node + Express backend
-├── .gitignore
-└── README.md
+        react-node-mysql-crud/
+        │
+        ├── react-crud-app/ # React frontend
+        ├── backend/ # Node + Express backend
+        ├── .gitignore
+        └── README.md
 
 \## ⚙️ Setup Instructions
   \### 1️⃣ Clone Repository
@@ -83,9 +83,10 @@ react-node-mysql-crud/
       This project demonstrates full-stack development skills, REST API design, and database integration.
 
 
-👨‍💻 Author
-Abhishek Yadav
-Java | SQL | Full Stack Developer
+            👨‍💻 Author:
+            Abhishek Yadav
+    Java | SQL | Full Stack Developer
+
 
 
 

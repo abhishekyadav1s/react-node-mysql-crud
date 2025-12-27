@@ -78,6 +78,9 @@
 
     | DELETE | /users/:id | Delete user   |
 
+    <img width="965" height="477" alt="image" src="https://github.com/user-attachments/assets/d9875e93-6a21-4121-a99e-6b5a6457df97" />
+
+
 🧠 Learning Outcome
 
       This project demonstrates full-stack development skills, REST API design, and database integration.
@@ -86,6 +89,7 @@
             👨‍💻 Author:
             Abhishek Yadav
     Java | SQL | Full Stack Developer
+
 
 
 
